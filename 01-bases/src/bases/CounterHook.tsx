@@ -7,7 +7,7 @@ const CounterHook = () => {
 
   return (
     <>
-      <h1>Counter Hook {counter}</h1>
+      <h1>Counter Hook: {counter}</h1>
       <h2 ref={elementToAnimate}>{counter}</h2>
       <button onClick={handleClick}>+1</button>
     </>
