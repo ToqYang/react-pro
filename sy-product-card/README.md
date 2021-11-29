@@ -10,7 +10,6 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'sy-prod
 
 ```
       <ProductCard
-        key={product.id}
         product={product}
         initialValues={{
           count: 6,
