@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+	  "url": "https://github.com/ToqYang/sy-product-card",
+	  "type": "git"
+  },
+  "homepage": "https://github.com/Toqyang/sy-product-card",
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +65,11 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.3.1",
     "typescript": "^4.5.2"
-  }
+  },
+  "keywords": [
+	"product",
+	"card",
+	"Santiago",
+	"Yanguas"
+  ]
 }
