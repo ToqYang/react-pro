@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "formik": "^2.2.9",
-    "react-router-dom": "6",
-    "yup": "^0.32.11"
-  }
-}
