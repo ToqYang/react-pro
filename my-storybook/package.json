@@ -1,7 +1,7 @@
 {
   "name": "ty-my-storybook-components",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "typings": "dist/index.d.js",
   "main": "dist/index.d.js",
   "homepage": "",
