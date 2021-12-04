@@ -1,7 +1,14 @@
 {
-  "name": "my-storybook",
+  "name": "ty-my-storybook-components",
   "version": "0.1.0",
   "private": true,
+  "typings": "dist/index.d.js",
+  "main": "dist/index.d.js",
+  "homepage": "",
+  "repository": {
+	  "url": ""
+  },
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
