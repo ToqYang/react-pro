@@ -19,6 +19,3 @@ registerRoute(
   ),
   new CacheFirst()
 );
-
-registerRoute(new RegExp("/api/auth"), new NetworkFirst());
-registerRoute(new RegExp("/api/auth"), new NetworkFirst());
